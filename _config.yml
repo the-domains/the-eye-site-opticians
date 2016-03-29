@@ -1,7 +1,7 @@
 name: The Eye Site Opticians
 favicon: null
-layout_spectrum: 0.9804180236533284
-typography_spectrum: 0.9200644686352462
+layout_spectrum: 1
+typography_spectrum: 0.44301
 cta:
   domain: null
   bucket: null
